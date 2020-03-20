@@ -9,7 +9,7 @@ There are plenty of good ventilator designs. There are many manufacturers of sim
 
 Consider Egypt, 100m people living on a thin strip of land by the Nile, the Philippines, rural Ukraine, India. A yearly salary wouldn’t cover a Chinese ventilator. This design has potentially few parts. Tooling up means machining a few molds. Email gerbers to a PCB house. Get a few automatic screwdriver machines etc.
 
-This Google doc (https://docs.google.com/document/d/1KpPWYRb1A637Cp5KIhhKtuGFS8Cdm5fGra3TTwwrBKo/edit#) is a proposal for progressive further development of the Johnny's design, component by component.  There's also some useful resources and information that I have collected from the last couple of days of discussion on helpfulengineering.slack.com , and elsewhere.
+This Google doc (https://docs.google.com/document/d/1KpPWYRb1A637Cp5KIhhKtuGFS8Cdm5fGra3TTwwrBKo/edit#) is a proposal for progressive further development of Johnny's design, component by component.  There's also some useful resources and information that I have collected from the last couple of days of discussion on helpfulengineering.slack.com , and elsewhere.
 
 Discussion of this proposal has taken place on https://join.slack.com/t/open-ventilator/shared_invite/zt-cwh6py1x-C5tO4JewMUf2tRN7rwWB~g
 
