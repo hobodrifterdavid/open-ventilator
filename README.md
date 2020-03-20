@@ -1,7 +1,7 @@
 # open-ventilator
 
 Please see Johnny Lee’s ventilator project (the video gives a great overview): https://github.com/jcl5m1/ventilator).
-That is a $50 USD ventilator. It's a working starting point. 
+It's a $50 USD ventilator. It's a working starting point. 
 
 The idea here is a make a better $50 ventilator: a more flexible and robust device that could be suitable for production in quantity. A ventilator with a microcontroller, airflow and pressure sensors, and a digitally controlled blower, can potentially perform any ventilation ‘mode’.
 
